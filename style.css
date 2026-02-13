@@ -122,10 +122,10 @@ nav a {
 }
 
 .before {
-    background-image: url('before.jpg'); /* Replace with actual image */
+    background-color: #4A4A4A;
     clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
 }
 
 .after {
-    background-image: url('after.jpg'); /* Replace with actual image */
+    background-color: #1F3A5F;
 }
